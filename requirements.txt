@@ -1,0 +1,20 @@
+# 🔹 LangChain: framework for connecting LLMs, tools, memory, and agents
+langchain
+
+# 🔹 FAISS: Facebook AI Similarity Search - for fast vector search & retrieval
+faiss-cpu
+
+# 🔹 Transformers: Hugging Face library for using pretrained LLMs (like FLAN-T5)
+transformers
+
+# 🔹 Torch: PyTorch backend - required for running transformer models
+torch
+
+# 🔹 Sentence Transformers: for creating embeddings (text → vector conversion)
+sentence-transformers
+
+# 🔹 Python-dotenv: for loading environment variables securely from .env file
+python-dotenv
+
+# 🔹 TQDM: for progress bars during long operations (optional but useful)
+tqdm
